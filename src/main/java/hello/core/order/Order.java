@@ -52,7 +52,7 @@ public class Order {
 
     @Override
     public String toString() {
-        return "Order{" +
+        return "Order {" +
                 "memberId=" + memberId +
                 ", itemName='" + itemName + '\'' +
                 ", itemPrice=" + itemPrice +
